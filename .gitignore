@@ -1,0 +1,5 @@
+.api
+.vscode
+node_modules
+.tmp
+dist
